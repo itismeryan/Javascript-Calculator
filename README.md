@@ -1,3 +1,5 @@
 # Javascript-Calculator
 
-Machine that I created where it magically does operations on numbers
+Calculator I created that can only do simple operations
+
+Try it here:
